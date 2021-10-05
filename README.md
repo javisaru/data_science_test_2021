@@ -1,6 +1,6 @@
-# Cornershop Data Science Test 2021
+Data Science Test 2021
 
-Cornershop cuenta con operaciones en varias ciudades y países, entregando miles de ordenes día a día. En orden de entregar estos pedidos a tiempo es necesario tener buenas estimaciones de los tiempos requeridos para los shoppers en completar una orden.
+Cierta empresa cuenta con operaciones en varias ciudades y países, entregando miles de ordenes día a día. En orden de entregar estos pedidos a tiempo es necesario tener buenas estimaciones de los tiempos requeridos para los shoppers en completar una orden.
 
 En este test técnico se pide crear un modelo de machine learning que haga estas estimaciones de tiempo utilizando python y sus librerías.
 
